@@ -46,3 +46,13 @@ mixed_list = [1, 2, 3, "one", "two", "three"]
 ```python
 [2, 3, 'one']
 ```
+## What is a tuple and whats the difference between that and a list
+- Tuples and lists are the same but Tuples are IMMUTABLE (Can not be changed)
+
+## What are Dictionaries 
+- Disctionaries use KEY VALUE pairs to save data
+- The data can be retrieved by its value or the key
+```python
+dict{} , list[], tuple()
+```
+- With in the dict we can also have lists declared 
