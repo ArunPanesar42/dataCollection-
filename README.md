@@ -56,3 +56,6 @@ mixed_list = [1, 2, 3, "one", "two", "three"]
 dict{} , list[], tuple()
 ```
 - With in the dict we can also have lists declared 
+
+## What are Sets ?
+- Sets are like lists but they are unordered and not really used 

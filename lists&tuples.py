@@ -73,3 +73,13 @@ print(dev_ops_student["completed_lesson"])
 dev_ops_student["completed_lesson_names"].remove("data types")
 print(dev_ops_student["completed_lesson_names"])
 
+# Looking into Sets
+# This is unordered
+car_parts = {"Wheels", "Windows", "Doors"}
+print(car_parts)
+print(type(car_parts))
+# Sets are MUTABLE
+car_parts.add("Seats")
+print(car_parts)
+
+# Frozen Sets
